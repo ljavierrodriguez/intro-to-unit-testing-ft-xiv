@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-unit-testing-ft-xiv",
+  "version": "1.0.0",
+  "description": "$ npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/intro-to-unit-testing-ft-xiv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/intro-to-unit-testing-ft-xiv/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/intro-to-unit-testing-ft-xiv#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
